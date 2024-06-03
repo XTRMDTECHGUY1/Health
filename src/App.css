@@ -1,0 +1,323 @@
+body{
+  width: 900px;;
+}
+
+
+/* Navbar */
+
+.navbody{
+  background: white;
+  top: 15px;
+  border-radius: 20px;
+  left: 20px;
+  margin-right: 30px;
+  height: 70px;
+  filter: drop-shadow( 7px 10px 5px rgba(0, 0, 0, 0.055));
+}
+
+.text{
+  font-size: 12px;
+  color: black;
+
+}
+
+.image{
+padding-bottom: 3px;
+width: 15px;
+height: 15px;
+
+}
+.image1{
+  padding-bottom: 3px;
+width: 1px;
+height: 35px;
+opacity: 50%;
+}
+
+.Logo{
+  padding-bottom: 5px;
+  width: 190px;
+  height: 40px;
+
+  }
+
+.navtext{
+justify-content: center;
+
+}
+
+.textc:hover{
+  background: #01F0D0;
+  border-radius: 20px;
+}
+
+.imagee{
+
+  width: 35px;
+  height: 35px;
+  margin-top: 20px;
+  }
+  
+  .imagee1{
+
+    width: 33px;
+    height: 33px;
+    margin-top: 16px;
+    }
+  .image2{
+    padding-bottom: 3px;
+    width: 19px;
+    height: 19px;
+    margin-left: 4px;
+    
+    }
+
+/* End Navbar */
+
+
+  .cards{
+    background: white;
+    width: 230px;
+    height: 780px;
+    margin: 0rem;
+    border-radius: 20px;
+  }
+
+  .cardss{
+    background: white;
+    width: 500px;
+    height: 425px;
+   margin-left: 10px;
+    border-radius: 15px;
+   
+  }
+
+  .cardsa{
+    background: #F4F0FE;
+    width: 480px;
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 15px;
+    
+   
+  }
+
+  
+
+  .imageee{
+    padding-bottom: 3px;
+    width: 17px;
+    height: 17px;
+    margin-left: 97px;
+    
+    } 
+    
+  .move{
+    margin-top: -8px;
+    margin-left: 13px;
+  }
+
+  .image21{
+    padding-bottom: 3px;
+    width: 19px;
+    height: 19px;
+    margin-left: 85px;
+    margin-top: -15px;
+    
+    }
+
+    .media-scroller{
+
+      grid-auto-rows: 10%;
+      grid-auto-flow: row;
+      overflow-y: auto;
+      display: grid;
+      
+      overscroll-behavior-inline: contain;
+    
+    }
+    ::-webkit-scrollbar{
+      width: 10px;
+      height: 780px;
+      
+      
+    }
+
+   ::-webkit-scrollbar-track{
+    border: 5px  solid #9781811c;
+    border-radius: 8px;
+    margin-left: -30px;
+   width: 230px;
+  
+   }
+   ::-webkit-scrollbar-thumb{
+    background: #8f81812d;
+    width: 230px;
+    border-radius: 8px;
+    
+   }
+
+   ::webkit-scrollbar-thumb:hover{
+    background: #000;
+    height: 10px;
+    
+   }
+
+
+    .media-scroller-element{
+      border: 15px solid black;
+    }
+
+    .media-element{
+      margin-left: 10px;
+    }
+ 
+    .txt{
+      font-size: 10px;
+      margin-left: 90px;
+    padding-top: 15px;
+    font-weight: bold;
+    }
+
+    .imageb{
+      width: 8px;
+      margin-left: 20px;
+      
+    }
+
+    .cardbc{
+      background: #E0F3FA;
+      width: 150px;
+      height: 155px;
+      margin-left: 10px;
+      margin-right: 10px;
+      border-radius: 9px;
+      margin-top: 10px;
+      
+     
+    }
+
+    .cardac{
+      background: #FFE6E9;
+      width: 150px;
+      height: 155px;
+      
+      margin-left: -30px;
+      border-radius: 9px;
+      margin-top: 10px;
+      
+     
+    }
+
+    .cardcc{
+      background: #FFE6F1;
+      width: 150px;
+      height: 155px;
+      margin-left: -30px;
+    
+      border-radius: 9px;
+      margin-top: 10px;
+      
+     
+    }
+   
+    .imglog{
+      width: 60px;
+      height: 60px;
+      margin-left: 10px;
+      margin-top: 10px;
+
+    }
+
+    .cardst{
+      background: white;
+      width: 500px;
+      height: 220px;
+      margin-left: 10px;
+      border-radius: 15px;
+     
+    }
+
+    
+    .cardad{
+      background: rgba(204, 196, 196, 0.212);
+      width: 470px;
+      height: 30px;
+      border-radius: 20px;
+      margin-left: 10px;
+     
+    }
+
+    
+    
+    .h5{
+      margin-left: 40px;
+    }
+    .h6{
+      margin-left: 70px;
+    }
+
+    .h7{
+      margin-left: 80px;
+    }
+    .h7A{
+      margin-left: 60px;
+    }
+    
+    .cardsq{
+      background: white;
+      width: 280px;
+      height: 460px;
+      margin-left: 200px;
+      margin-top: -10px;
+            border-radius: 20px;
+    }
+    
+    .imgwo{
+      width: 120px;
+      height: 120px;
+      margin-left: 55px;
+      margin-top: 20px;
+
+    }
+   
+    .imageea{
+
+      width: 30px;
+      height:30px;
+      margin-top: 15px;
+      }
+
+      .btnn{
+        font-size: 20px;
+        margin-left: 40px;
+        width: 150px;
+        height: 40px;
+        text-align: center;
+        justify-content: center;
+        padding-bottom: -60px;
+        background-color: #01F0D0;;
+      }
+
+      .textcc:hover{
+        background: #01F0D0;
+        
+      }
+
+      .cardsal{
+        background: white;
+        width: 280px;
+        height: 220px;
+        margin: 0rem;
+        margin-left: -30px;
+        border-radius: 20px;
+      }
+
+      .cardinnera{
+        margin-left: 30px;
+      }
+
+     
+    
+      
