@@ -470,7 +470,7 @@ fetch('https://fedskillstest.coalitiontechnologies.workers.dev/auth', {
                     <div style={{marginLeft:'20px', marginTop: '-20px'}}>
                     <img src={insure} alt='' className='imageea' /> 
                 <b className='text' style={{fontSize:'12px',fontWeight: 'lighter',marginLeft:'15px'}}>    Insurance Provider   </b> 
-                <p style={{color: 'black', fontWeight: 'bold', fontSize:'10px', marginTop: '-15px',
+                <p style={{color: 'black', fontWeight: 'bold', fontSize:'10px',
                 marginLeft:'45px',marginTop: '-16px'}}>
                 Permier Auto Corporation </p>
                     </div>
@@ -487,31 +487,31 @@ fetch('https://fedskillstest.coalitiontechnologies.workers.dev/auth', {
                     <h1 style={{fontSize: '22px'}}> Lab Results  </h1>
 <br/>
                     <div >
-                <p style={{color: 'black', fontWeight: 'bold', fontSize:'12px', marginTop: '-15px',
+                <p style={{color: 'black', fontWeight: 'bold', fontSize:'12px',
                 marginLeft:'39px',marginTop: '-19px', }}>
                Blood Test  <img src={download} alt=''  style={{marginLeft: '110px'}}/> </p>
                
                     </div>
                     <div style={{marginTop: '30px'}}>
-                <p style={{color: 'black', fontWeight: 'bold', fontSize:'12px', marginTop: '-15px',
+                <p style={{color: 'black', fontWeight: 'bold', fontSize:'12px',
                 marginLeft:'39px',marginTop: '-19px', }}>
                CT Scan <img src={download} alt=''  style={{marginLeft: '125px'}}/> </p>
                
                     </div>
                     <div style={{marginTop: '30px'}}>
-                <p style={{color: 'black', fontWeight: 'bold', fontSize:'12px', marginTop: '-15px',
+                <p style={{color: 'black', fontWeight: 'bold', fontSize:'12px',
                 marginLeft:'39px',marginTop: '-19px',}}>
                X-Ray <img src={download} alt=''  style={{marginLeft: '140px'}}/> </p>
                
                     </div>
                     <div style={{marginTop: '30px'}}>
-                <p style={{color: 'black', fontWeight: 'bold', fontSize:'12px', marginTop: '-15px',
+                <p style={{color: 'black', fontWeight: 'bold', fontSize:'12px',
                 marginLeft:'39px',marginTop: '-19px', }}>
                Urine  <img src={download} alt=''  style={{marginLeft: '145px'}}/> </p>
                
                     </div>
                     <div style={{marginTop: '30px'}}>
-                <p style={{color: 'black', fontWeight: 'bold', fontSize:'12px', marginTop: '-15px',
+                <p style={{color: 'black', fontWeight: 'bold', fontSize:'12px',
                 marginLeft:'39px',marginTop: '-19px',}}>
                Radiology Report  <img src={download} alt=''  style={{marginLeft: '180px', marginTop:'-40px'}}/> </p>
                
